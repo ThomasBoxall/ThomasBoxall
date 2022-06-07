@@ -5,10 +5,11 @@
 
 - 🔭 I’m currently working on Email Google Calendar Agenda V3 (and A-Levels)
 - 🌱 I’m currently learning LaTeX, Python 3 and Google Apps Scripting (so JS)
+- 📫 How to reach me: Drop me an email
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me: Drop me an email
+
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
