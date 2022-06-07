@@ -4,7 +4,7 @@
 <!-- **ThomasBoxall/ThomasBoxall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on Email Google Calendar Agenda V3 (and A-Levels)
-- 🌱 I’m currently learning LaTeX, Python 3 and Google Apps Scripting (so JS)
+- 🌱 I’m currently learning LaTeX, Python 3 and Google Apps Scripting
 - 📫 How to reach me: Drop me an email
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
