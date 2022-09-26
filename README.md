@@ -3,7 +3,7 @@
 
 <!-- **ThomasBoxall/ThomasBoxall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on a project using the Darwin data feeds from National Rail & making beautiful documents in LaTeX
+- 🔭 I’m currently working on a project using the Darwin data feeds from National Rail; making beautiful documents in LaTeX and a Computer Science degree
 - 🌱 I’m currently learning LaTeX, Python 3, Google Apps Scripting and Web languages (so only a few things at once then!)
 - 📫 How to reach me: Drop me an email
 <!--- 👯 I’m looking to collaborate on ...
