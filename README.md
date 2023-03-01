@@ -4,7 +4,7 @@
 <!-- **ThomasBoxall/ThomasBoxall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 1st year BSc CompSci student at UoP
-- Learning Python (mainly) and JS (a tiny bit, for now)
+- Learning Python *(mainly)*, PHP *(for fun)* and JS *(a really tiny bit)*
 - Likes pretty documents (which have probably been typeset in LaTeX)
 - Spends lots of time playing with LaTeX
 
