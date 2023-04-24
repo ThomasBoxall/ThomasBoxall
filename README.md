@@ -4,9 +4,10 @@
 <!-- **ThomasBoxall/ThomasBoxall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 1st year BSc CompSci student at UoP
-- Learning Python *(mainly)*, PHP *(for fun)* and JS *(a really tiny bit)*
+- Learning Python & Dart *(mainly)*, PHP *(for fun)* and JS *(a really tiny bit)*
 - Likes pretty documents (which have probably been typeset in LaTeX)
 - Spends lots of time playing with LaTeX
+- Writes scripts to do things which could probably be done by hand quicker (see my [Gists](https://gist.github.com/ThomasBoxall) for these)
 
 <!-- - 🔭 I’m currently working on a project using the Darwin data feeds from National Rail; making beautiful documents in LaTeX and a Computer Science degree
 - 🌱 I’m currently learning LaTeX, Python 3, Google Apps Scripting and Web languages (so only a few things at once then!)
