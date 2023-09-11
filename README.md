@@ -3,8 +3,9 @@
 
 <!-- **ThomasBoxall/ThomasBoxall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 1st year BSc CompSci student at UoP
-- Learning Python & Dart *(mainly)*, PHP *(for fun)* and JS *(a really tiny bit)*
+- 2nd year BSc CompSci student at UoP
+- Technical Director @ [PureFM](https://thisispurefm.com)
+- Learning Python & Dart *(mainly)* and PHP & JS*(for fun)*
 - Likes pretty documents (which have probably been typeset in LaTeX)
 - Spends lots of time playing with LaTeX
 - Writes scripts to do things which could probably be done by hand quicker (see my [Gists](https://gist.github.com/ThomasBoxall) for these)
