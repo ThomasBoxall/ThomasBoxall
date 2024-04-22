@@ -1,7 +1,6 @@
 ### Hey there 👋 I'm Thomas
 
 - 2nd year BSc CompSci student at UoP
-- Seeking IT Engineering / Network Operations / Systems Administration Placement for 2024-25
 - Technical Director @ [PureFM](https://thisispurefm.com) ([Our GitHub](https://github.com/thisispurefm))
 - Learning Python & Dart *(mainly)* and PHP & JS *(for fun)*
 - Likes pretty documents (which have probably been typeset in LaTeX)
