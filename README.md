@@ -2,7 +2,7 @@
 
 - Computer Science @ UoP
 - Currently on Year in Industry Placement in North Wales
-- Technical Director @ [PureFM](https://thisispurefm.com) ([Our GitHub](https://github.com/thisispurefm))
+- Volunteer @ Woodcraft Folk
 - Learning Python & Dart *(mainly)* and PHP & JS *(for fun)*
 - Likes pretty documents (which have probably been typeset in LaTeX)
 - Spends lots of time playing with LaTeX
