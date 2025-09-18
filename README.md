@@ -1,14 +1,9 @@
 ### Hey there 👋 I'm Thomas
 
-- Computer Science @ UoP
-- Currently on Year in Industry Placement in North Wales
-- Volunteer @ Woodcraft Folk
-- Learning Python & Dart *(mainly)* and PHP & JS *(for fun)*
-- Likes pretty documents (which have probably been typeset in LaTeX)
-- Spends lots of time playing with LaTeX
+- Final Year Computer Science @ UoP
+- Digital Volunteer & Webmaster @ Woodcraft Folk
+- Google Workspace Administrator (including automating jobs which could be done by hand faster: [GroupPermissionReset]([https://github.com/ThomasBoxall/google-admin-scripts](https://github.com/ThomasBoxall/google-admin-scripts/tree/main/GroupPermissionReset)) // [GetSharingInformation](https://github.com/ThomasBoxall/get-sharing-information) // [GetUsersNotSeen180Days](https://github.com/ThomasBoxall/google-admin-scripts/tree/main/GetUsersNotSeen180Days))
+- Mostly interested in Infrastructure & System Administration but tolerates software development
+- Admirer of Pretty Documents
+- Spends lots of time playing with LaTeX to try and make pretty documents
 - Writes scripts to do things which could probably be done by hand quicker (see my [Gists](https://gist.github.com/ThomasBoxall) for these)
-
-### Languages
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasBoxall&show_icons=true&theme=github_dark) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasBoxall&exclude_repo=a-level-docs,uni-notes&theme=github_dark&layout=compact)  
-(I've excluded some LaTeX heavy repos from this as its 99% LaTeX otherwise)
